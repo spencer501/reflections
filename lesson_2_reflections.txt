@@ -28,5 +28,7 @@ the diagram the way we do?
 
 	Combine the features of both branched to one branch.
 
-What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
+What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+	Automatic saves time but it could mess up.
